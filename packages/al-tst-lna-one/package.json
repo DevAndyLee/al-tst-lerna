@@ -1,10 +1,10 @@
 {
   "name": "al-tst-lna-one",
   "version": "0.0.3",
-  "homepage": "https://github.com/DevAndyLee/al-tst-lerna",
+  "homepage": "https://github.com/DevAndyLee/al-tst-lerna.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevAndyLee/al-tst-lerna",
+    "url": "https://github.com/DevAndyLee/al-tst-lerna.git",
     "directory": "packages/al-tst-lna-one"
   }
 }
