@@ -4,6 +4,7 @@
   "homepage": "https://github.com/DevAndyLee/al-tst-lerna",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevAndyLee/al-tst-lerna"
+    "url": "https://github.com/DevAndyLee/al-tst-lerna",
+    "directory": "packages/al-tst-lna-one"
   }
 }
